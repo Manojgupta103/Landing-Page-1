@@ -1,7 +1,5 @@
 # OIBSIP
-Creating a README file for your landing page project is a crucial step to provide information and guidance to anyone who wants to use or collaborate on your project. Below is a template for a README file tailored to a landing page project:
 
----
 
 # Landing Page Project README
 
@@ -19,9 +17,6 @@ This repository contains the source code and assets for a simple landing page. T
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can see a live demo of this landing page here: [Demo Link](#) *(Replace with your actual demo link)*
 
 ## Features
 
@@ -32,21 +27,6 @@ You can see a live demo of this landing page here: [Demo Link](#) *(Replace with
 - Basic styling with CSS for a clean and organized appearance.
 - Easy customization for adding your content and branding.
 
-## Getting Started
-
-To get started with this landing page project, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/landing-page.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd landing-page
-   ```
 
 ## Usage
 
